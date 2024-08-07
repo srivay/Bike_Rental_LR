@@ -39,7 +39,7 @@ This model will also help to understand the demand dynamics of a new market
 - The top 3-4 variables contributing to the demand are
    - Temperature : Increase in temp, increases the demand of bike rentals. Year
    - 2019 was better than 2018 and hence increasing in trend bikes Rentals are more in Holidays than on working days / Non Holidays.
-   - Winter Season - There is more demand during winter season
+   - Holidays - There is more demand during holidays
    - Sep Month - The season of Fall, has a better demand than other months.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
