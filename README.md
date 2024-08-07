@@ -1,4 +1,4 @@
-# Project Name
+# Case Study Predicting Bike Sharing using Linear Regression
 > Outline a brief description of your project.
 
 
@@ -35,10 +35,12 @@ This model will also help to understand the demand dynamics of a new market
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- The model can explain more than 77% of bike demand
+- The top 3-4 variables contributing to the demand are
+   - Temperature : Increase in temp, increases the demand of bike rentals. Year
+   - 2019 was better than 2018 and hence increasing in trend bikes Rentals are more in Holidays than on working days / Non Holidays.
+   - Winter Season - There is more demand during winter season
+   - Sep Month - The season of Fall, has a better demand than other months.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
