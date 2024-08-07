@@ -28,16 +28,16 @@ This should then allow the management to meet the demand levels and meet custome
 This model will also help to understand the demand dynamics of a new market.
 
 ## Table of Contents
-# Conclusions
-# Technologies Used
-# Acknowledgements
-# Conclusions
-# Technologies Used
+### Conclusions
+### Technologies Used
+### Acknowledgements
+### Conclusions
+### Technologies Used
 Python - v3.9.0
 Seaborn - v0.12.2
 pandas - v2.0.1
 matplotlib - v3.7.1
 sklearn - v0.0.post5
 statsmodels - v0.14.0
-# Contact
+### Contact
 Created by [@srivay] - feel free to contact me!
